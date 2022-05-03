@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "test:ci": "ng test --watch=false --browsers=ChromeHeadless",
-    "build:ci": "ng build --prod"
+    "build:ci": "ng build --prod --baseHref=https://bbaale15.github.io/bulletin-board-app/"
   },
   "private": true,
   "dependencies": {

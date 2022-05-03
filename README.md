@@ -1,5 +1,6 @@
 # BulletinBoardApp
 
+An online bulletin board or notice board for the posting of public messages to provide information to its users.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server

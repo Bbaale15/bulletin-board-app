@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bulletin-board-app"
+    }
+  },
+  "defaultProject": "bulletin-board-app",
+  "cli": {
+    "analytics": "0ed33544-a66e-45f1-b259-379e16b9e3aa"
+  }
 }
